@@ -62,6 +62,7 @@ Une fois ces étapes terminées, votre environnement est prêt pour le développ
 - Cliquez ensuite sur Write, puis Write à nouveau dans la fenêtre de confirmation pour flasher le code.
 
 **Connexion et réception des messages en BLE:**
+
 Activer le Bluetooth sur le Thingy:91
 - Branchez le Thingy:91 à votre ordinateur à l'aide du câble micro USB.
 - Ouvrez le fichier Config situé dans la carte Thingy:91.
