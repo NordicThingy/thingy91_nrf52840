@@ -54,7 +54,7 @@ Une fois ces étapes terminées, votre environnement est prêt pour le développ
 
 **Envoi du code au Thingy:91:**
 - Connectez la carte Thingy:91 à votre ordinateur via un câble micro-USB.
-- Allumez la carte en appuyant sur le bouton SW2 puis en activant l'interrupteur ON/OFF.
+- Allumez la carte en appuyant sur le bouton SW1 puis en activant l'interrupteur ON/OFF.
 ![image](https://github.com/user-attachments/assets/ea1b6834-e06b-45cd-a242-337154133790)
 - Ouvrez nRF Connect for Desktop, puis l'outil Programmer (à installer si nécessaire).
 - Cliquez sur Select a Device et sélectionnez le Thingy:91 dans la liste.
