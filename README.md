@@ -80,4 +80,3 @@ Le Bluetooth est maintenant activé sur votre Thingy:91.
 - Cliquez sur le bouton CONNECT de l'appareil nommé Thingy:91 UART.
 - Vous êtes maintenant connecté à votre appareil.
 - Pour lire les données, appuyez sur Nordic UART Service puis sur le symbole avec 3 flèches de téléchargement à côté de TX Characteristic.
-- Pour lire les données, accédez au Nordic UART Service et appuyez sur le symbole avec 3 flèches de téléchargement à côté de TX Characteristic.
