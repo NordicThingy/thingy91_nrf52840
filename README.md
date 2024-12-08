@@ -68,7 +68,7 @@ Activer le Bluetooth sur le Thingy:91
 - Ouvrez le fichier Config situé dans la carte Thingy:91.
 - Modifiez la ligne BLE_ENABLED=0 en BLE_ENABLED=1.
 - Sauvegardez les modifications.
-- Éjectez proprement la carte Thingy:91 depuis votre ordinateur.
+- Éjectez proprement la carte Thingy:91 depuis votre ordinateur en allant dans l'affichage des icônes cachés et ejecter la carte branché sur le port USB.
 - Débranchez le Thingy:91.
 Le Bluetooth est maintenant activé sur votre Thingy:91.
 
