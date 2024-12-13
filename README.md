@@ -76,8 +76,8 @@ Activer le Bluetooth sur le Thingy:91
 - Débranchez le Thingy:91.
 Le Bluetooth est maintenant activé sur votre Thingy:91.
 
-**Utiliser nRF Connect pour Desktop:**
-- Activez le Bluetooth si ce n'est pas déjà fait.
+**Utiliser nRF Connect pour Téléphone afin de lire les données:**
+- Installez l'application "nRF Connect" si ce n'est pas déjà fait.
 - Ouvrez nRF Connect sur votre téléphone.
 - Cliquez sur le bouton Scan pour rechercher les appareils BLE à proximité.
 - Filtrez les résultats en tapant thingy dans la barre de tri sous "Filter by name or address". Cela facilitera la localisation de votre appareil lors des prochaines connexions.
