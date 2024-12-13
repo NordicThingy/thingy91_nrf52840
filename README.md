@@ -16,15 +16,15 @@ Note : Assurez-vous que la chaîne d'outils (Toolchain) et le SDK sont installé
 
 Suivez les étapes ci-dessous pour la configuration :
 1. Installation des outils en ligne de commande nRF
-- Téléchargez et installez les nRF Command Line Tools depuis le lien suivant : https://www.nordicsemi.com/Products/Development-tools/nRF-Command-Line-Tools/Download.
-- Les nRF Command Line Tools incluent nrfjprog, un outil essentiel pour flasher le firmware sur vos kits de développement Nordic.
+  - Téléchargez et installez les nRF Command Line Tools depuis le lien suivant : https://www.nordicsemi.com/Products/Development-tools/nRF-Command-Line-Tools/Download.
+  - Les nRF Command Line Tools incluent nrfjprog, un outil essentiel pour flasher le firmware sur vos kits de développement Nordic.
 
 2. Installation de Visual Studio Code
-- Rendez-vous sur https://code.visualstudio.com/download et installez la version de VS Code correspondant à votre système d'exploitation.
+  - Rendez-vous sur https://code.visualstudio.com/download et installez la version de VS Code correspondant à votre système d'exploitation.
 
 4. Installation du nRF Connect Extension Pack dans VS Code
-- Dans la barre d'activités de VS Code, cliquez sur l'icône Extensions.
-- Recherchez nRF Connect for VS Code Extension Pack, puis cliquez sur Installer.
+  - Dans la barre d'activités de VS Code, cliquez sur l'icône Extensions.
+  - Recherchez nRF Connect for VS Code Extension Pack, puis cliquez sur Installer.
 
 Le nRF Connect Extension Pack pour VS Code permet de :
   - Développer, créer, déboguer et déployer des applications embarquées basées sur le SDK nRF Connect.
