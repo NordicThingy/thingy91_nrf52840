@@ -38,9 +38,11 @@ Le nRF Connect Extension Pack dans VS Code permet de :
     - L'installation peut prendre quelques minutes.
 
 5. Installation du SDK nRF Connect
+
 Dans nRF Connect pour VS Code, cliquez sur Gérer le SDK.
+
 Dans cette section, vous pourrez installer, désinstaller et sélectionner la version active du SDK.
-Cliquez sur Installer le SDK pour afficher les versions disponibles et choisir celle que vous souhaitez utiliser.
+- Cliquez sur Installer le SDK pour afficher les versions disponibles et choisir celle que vous souhaitez utiliser et installer la, le mieux est de sélectionner la dernière sans parenthèse.
 Une fois ces étapes terminées, votre environnement est prêt pour le développement avec le SDK nRF Connect et Visual Studio Code.
 
 
