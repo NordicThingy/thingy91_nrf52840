@@ -32,7 +32,7 @@ Le nRF Connect Extension Pack dans VS Code permet de :
   - Utiliser un éditeur visuel pour les fichiers Devicetree et un terminal série intégré.
 
 4. Installation de la chaîne d'outils (Toolchain) sur VS Code
-- Lors du premier lancement de l'extension nRF Connect for VS Code, vous serez invité à installer une Toolchain. Si aucune n'est détectée, procédez ainsi :
+- Lors du premier lancement de l'extension nRF Connect for VS Code (cliquez sur l'extension dans la barre de gauche), vous serez invité à installer une Toolchain. Si aucune n'est détectée, procédez ainsi :
     - Cliquez sur Installer la Toolchain.
     - Choisissez une version compatible avec la version du SDK nRF Connect que vous utiliserez (la dernière version recommandée).
     - L'installation peut prendre quelques minutes.
