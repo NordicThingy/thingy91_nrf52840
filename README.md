@@ -92,7 +92,9 @@ Le Bluetooth est maintenant activé sur votre Thingy:91.
 - Dans la nouvelle page, cliquez sur enregistrez en bas (casette d'enregistrement), cela enregistrera un fichier txt
 - Sauvegardez le fichier à un endroit auquel vous pouvez accéder puis envoyer vous ce fichier sur ordinateur
 - Sur l'ordinateur, ouvrez le fichier "Extraction_Données_BLE" situé dans ce répertoire Github
+- Faites éxécutez, vous devriez avoir une erreur
+- Tapez la commande : pip install pandas
 - Copier le chemin d'accès au fichier txt et écrivez le à la place de "chemin/accès/fichier.txt" en enlevant les guillemets et en laissant les apostrophes de base
 - Créer un fichier excel sur le bureau et copiez le chemin d'accès à celui-ci puis écrivez la dans "chemin/accès/fichier_excel.xlxs" en enlevant les guillemets et en laissant les apostrophes de base
-- Exécutez le programme Python
+- Exécutez de nouveau le programme Python
 - Vos données seront enregistrées dans le fichier xlxs pour du traitement de données
