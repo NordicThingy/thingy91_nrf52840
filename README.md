@@ -86,3 +86,13 @@ Le Bluetooth est maintenant activé sur votre Thingy:91.
 - Pour lire les données, appuyez sur Nordic UART Service puis sur le symbole avec 3 flèches de téléchargement à côté de TX Characteristic.
 
 **Extraction des données dans un fichier excel depuis les données reçues en BLE:**
+- Dans nRF Connect sur téléphone, vérifiez que vous êtes bien connecté à l'appareil en BLE
+- Cliquez sur Nordic UART Service puis les trois flèches
+- Appuyez ensuite sur les 3 points en haut à droite puis Show log
+- Dans la nouvelle page, cliquez sur enregistrez en bas (casette d'enregistrement), cela enregistrera un fichier txt
+- Sauvegardez le fichier à un endroit auquel vous pouvez accéder puis envoyer vous ce fichier sur ordinateur
+- Sur l'ordinateur, ouvrez le fichier "Extraction_Données_BLE" situé dans ce répertoire Github
+- Copier le chemin d'accès au fichier txt et écrivez le à la place de "chemin/accès/fichier.txt" en enlevant les guillemets et en laissant les apostrophes de base
+- Créer un fichier excel sur le bureau et copiez le chemin d'accès à celui-ci puis écrivez la dans "chemin/accès/fichier_excel.xlxs" en enlevant les guillemets et en laissant les apostrophes de base
+- Exécutez le programme Python
+- Vos données seront enregistrées dans le fichier xlxs pour du traitement de données
