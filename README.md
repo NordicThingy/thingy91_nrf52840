@@ -10,7 +10,7 @@ Ce programme permet de créer un pont de connectivité entre le nRF9160 et le nR
 - nRF Connect sur téléphone
 
 **Installation et Configuration:**
-Pour exécuter ce projet, vous devez installer et configurer le nRF Connect for Desktop et Visual Studio Code (VS Code). 
+Pour exécuter ce projet, vous devez installer et configurer nRF Connect for Desktop et Visual Studio Code (VS Code). 
 
 Note : Assurez-vous que la chaîne d'outils (Toolchain) et le SDK sont installés sur le disque C:\ de l'ordinateur, dans un dossier dédié. Le dossier contenant le code pour le Thingy:91 doit également être placé dans un dossier de programmation sur le disque C:\.
 
